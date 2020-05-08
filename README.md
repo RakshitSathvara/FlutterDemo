@@ -1,6 +1,14 @@
-# providerdemo
+# Flutter demo using Provider for state management.
 
-A new Flutter application.
+As you explore Flutter, there comes a time when you need to share application state between screens, across your app.
+
+Flutter is declarative. This means that Flutter builds its user interface to reflect the current state of your app:
+
+UI = f(state) where,
+
+UI -> The layout on the screen.
+f -> Your build methods.
+state -> Application state.
 
 ## Getting Started
 
