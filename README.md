@@ -1,4 +1,4 @@
-# Flutter demo using Provider for state management.
+# Flutter Cart Demo using Provider for state management.
 
 As you explore Flutter, there comes a time when you need to share application state between screens, across your app.
 
